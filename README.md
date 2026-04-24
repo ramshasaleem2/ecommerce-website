@@ -1,16 +1,63 @@
-# React + Vite
+## 🛒 E-Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive eCommerce web application built using React.js. This project showcases product listings, shopping cart functionality, and a clean user interface — ideal for portfolio demonstration.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
+🛍️ Product Listing Page
+🔍 Product Details View
+🛒 Add to Cart / Remove from Cart
+📦 Cart Management System
+🔄 Dynamic UI with React Hooks
+📱 Fully Responsive Design
+⚡ Fast performance using Vite
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
+Frontend: React.js
+Styling: CSS
+Build Tool: Vite
+State Management: useState / useContext
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Installation & Setup
+Follow these steps to run the project locally:
+
+## Clone the repository:
+```bash
+git clone https://github.com/ramshasaleem2/ecommerce-website
+```
+## Navigate to the project folder:
+```bash
+cd ecommerce-project
+```
+## Install dependencies:
+```bash
+npm install
+```
+## Run the development server:
+```bash
+npm run dev
+```
+
+---
+
+## 💡 Learning Outcomes
+Improved understanding of React Hooks (useState, useContext)
+Hands-on experience with API integration
+Built reusable components
+Learned state management in real-world apps
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repo and submit a pull request.
+
+
+
+
+
