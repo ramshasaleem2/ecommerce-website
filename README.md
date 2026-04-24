@@ -1,25 +1,24 @@
 ## 🛒 E-Commerce Website
 
-A modern and responsive eCommerce web application built using React.js. This project showcases product listings, shopping cart functionality, and a clean user interface — ideal for portfolio demonstration.
-
+A modern and responsive eCommerce web application built using React.js. This project showcases product listings, shopping cart functionality, and a clean user interface.
 ---
 
 ## 🚀 Features
-🛍️ Product Listing Page
-🔍 Product Details View
-🛒 Add to Cart / Remove from Cart
-📦 Cart Management System
-🔄 Dynamic UI with React Hooks
-📱 Fully Responsive Design
-⚡ Fast performance using Vite
+- 🛍️ Product Listing Page
+- 🔍 Product Details View
+- 🛒 Add to Cart / Remove from Cart
+- 📦 Cart Management System
+- 🔄 Dynamic UI with React Hooks
+- 📱 Fully Responsive Design
+- ⚡ Fast performance using Vite
 
 ---
 
 ## 🛠️ Tech Stack
-Frontend: React.js
-Styling: CSS
-Build Tool: Vite
-State Management: useState / useContext
+- Frontend: React.js
+- Styling: CSS
+- Build Tool: Vite
+- State Management: useState / useContext
 
 ---
 
@@ -46,10 +45,10 @@ npm run dev
 ---
 
 ## 💡 Learning Outcomes
-Improved understanding of React Hooks (useState, useContext)
-Hands-on experience with API integration
-Built reusable components
-Learned state management in real-world apps
+- Improved understanding of React Hooks (useState, useContext)
+- Hands-on experience with API integration
+- Built reusable components
+- Learned state management in real-world apps
 
 ---
 
