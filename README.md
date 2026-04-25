@@ -57,6 +57,10 @@ npm run dev
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
+---
+
+Open https://ecommerce-website-puce-sigma.vercel.app/ in your browser to view the project.
+
 
 
 
